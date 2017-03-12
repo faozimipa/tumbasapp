@@ -11,8 +11,8 @@
         "zizaco/entrust": "5.2.x-dev",
         "infyomlabs/laravel-generator": "5.3.x-dev",
         "laravelcollective/html": "5.4.",
-        "infyomlabs/core-templates": "5.3.x-dev",
         "infyomlabs/swagger-generator": "dev-master",
+        "infyomlabs/adminlte-templates": "dev-develop",
         "jlapp/swaggervel": "dev-master"
     },
     "require-dev": {
