@@ -79,7 +79,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Tumbas.in API
+                    Tumbas.in
+                </div>
+                <div class="title m-b-md">
+                    API
                 </div>
 
                {{-- <div class="links">
